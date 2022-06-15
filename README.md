@@ -1,2 +1,2 @@
-# awk_signal_article
-This code is AWK serialized articles of ShellScript Magagine.
+# 連載「AWKでデジタル信号処理」の掲載コード
+シェルスクリプトマガジン Vol.79（2022年8月号）より開始した連載「AWKでデジタル信号処理」の記事内で紹介しているコードを配布しています。
